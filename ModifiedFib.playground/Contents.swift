@@ -12,9 +12,9 @@ import UIKit
 class FibonacciSequence {
     
     let includesZero: Bool
-    var values: [Int]
+    var values: [UInt]
     
-    init(maxNumber: Int, includesZero: Bool) {
+    init(maxNumber: UInt, includesZero: Bool) {
         self.includesZero = includesZero
         //TODO: Create an array which contains the numbers in the Fibonacci sequence, but don't add any numbers to the array which exceed the maxNumber. For example, if the maxNumber is 10 then the array should contain [0,1,1,2,3,5,8] because the next number is 13 which is higher than the maxNumber. If includesZero is false then you should not include the number 0 in the sequence.
         
@@ -46,7 +46,7 @@ class FibonacciSequence {
 
     
 
-    init(numberOfItemsInSequence: Int, includesZero: Bool) {
+    init(numberOfItemsInSequence: UInt, includesZero: Bool) {
         self.includesZero = includesZero
         //TODO: Create an array which contains the numbers in the Fibonacci sequence, and the array should contain this many items: numberOfItemsInSequence. For example, if numberOfItemsInSequence is 10 then the array should contain [0,1,1,2,3,5,8,13,21,34] if inlcudesZero is true, or [1,1,2,3,5,8,13,21,34,55] if includesZero is false.
         
