@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6BD2936693F82072618A768A0CA7FA017BD106C2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6BA30B5BA1C820896CCAFA306F88AC117DC3FF3D" : 0,
+    "6BD2936693F82072618A768A0CA7FA017BD106C2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FBDDCFE8-E018-44FF-8FD5-3C5B246EB4C2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6BA30B5BA1C820896CCAFA306F88AC117DC3FF3D" : "",
+    "6BD2936693F82072618A768A0CA7FA017BD106C2" : "ModifiedFib.playground\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jibralta\/thinkful.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6BA30B5BA1C820896CCAFA306F88AC117DC3FF3D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:github.com\/jibralta\/Fibonacci.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6BD2936693F82072618A768A0CA7FA017BD106C2"
+    }
+  ]
+}
